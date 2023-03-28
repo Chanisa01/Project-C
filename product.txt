@@ -1,0 +1,7 @@
+1 Salmon 100 150
+2 Crab 100 140
+3 Tuna 100 130
+4 Chicken 100 120
+
+
+
